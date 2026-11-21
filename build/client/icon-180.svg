@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180" role="img" aria-label="LucidPath Digital">
-  <rect width="180" height="180" rx="36" fill="#1F4788"/>
-  <path d="M50 43v51h28M130 137V86h-28" fill="none" stroke="#fff" stroke-width="17" stroke-linecap="round" stroke-linejoin="round"/>
-  <circle cx="50" cy="43" r="11" fill="#F7931E"/>
-  <circle cx="130" cy="137" r="11" fill="#fff"/>
-</svg>

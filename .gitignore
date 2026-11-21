@@ -1,0 +1,16 @@
+# Dependencies and build output: never commit these
+node_modules/
+build/
+dist/
+.netlify/
+.react-router/
+.vite/
+
+# Secrets and local config
+.env
+.env.*
+!.env.example
+
+# OS / editor
+.DS_Store
+*.log

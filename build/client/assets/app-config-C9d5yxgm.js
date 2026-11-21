@@ -1,1 +1,0 @@
-var e=`lucidpath-digital`,t=`LucidPath Digital`,n=e,r=t;export{r as n,n as t};
